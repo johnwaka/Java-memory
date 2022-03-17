@@ -24,3 +24,20 @@ String      varies    reference   a sequence of characters, eg "hello you"
   int x;        declaration
   x = 123;      assignment
   int x = 123;  initialization
+
+
+
+public class Main {
+
+	public static void main(String[] args) {
+	/*A variable is a placeholder for a value that behaves
+		as the value it contains. E.g x=123*/
+    
+		int x = 123;
+		System.out.println("My number is: " + x);
+		
+			
+	}
+
+
+}
